@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Daco_67009.png</file>
+    <file>ii.png</file>
+    <file>tt.png</file>
+    <file>10wmt-superJumbo-v4.jpg</file>
+    <file>Daco_5095733.png</file>
+    <file>Blur.jpg</file>
+    <file>bg.jpg</file>
+    <file>bggg.jpg</file>
+    <file>bgg.jpg</file>
+  </qresource>
+</RCC>
